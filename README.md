@@ -59,3 +59,9 @@ If you do not define in the example `@x.setter`, you will can't set the x value 
 Teacher said that to `@x.deleter` in the example we can use del, but this is not interesting (use `del` can result in errors in other parts of the code that depends on this property), so he prefered to use `self._x = -1`.
 
 ![using del](images/using-del.png)
+
+
+# Slides of the class
+
+[link](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EQT6XJxrBjFGs_OWHrHasOgBQl5FC3wqBPbHEOtlo5eIdQ?e=gmVfaM)
+)
