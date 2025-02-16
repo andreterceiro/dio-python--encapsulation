@@ -42,3 +42,8 @@ print(account._cebola) # 1 underline => ok
 ```
 
 ChatGPT confirmed the information of the convention passed by the teacher, but passed a better alternative: the use of two underlines before the name of the property. As you can see in the example, we cannot access outside of the class a property who name starts with two underlines. 
+
+
+# Talking about property
+
+![property](images/property.png)
