@@ -51,3 +51,5 @@ ChatGPT confirmed the information of the convention passed by the teacher, but p
 Please see this interesting example of the teacher. He inserted in the code `@property` and also `@x.setter` and `@x.deleter`:
 
 ![property example](images/property-example.png)
+
+As you could see in the examples, if you use `@property` you will access the property **without** parentheses.
