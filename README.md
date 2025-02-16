@@ -53,3 +53,5 @@ Please see this interesting example of the teacher. He inserted in the code `@pr
 ![property example](images/property-example.png)
 
 As you could see in the examples, if you use `@property` you will access the property **without** parentheses.
+
+If you do not define in the example `@x.setter`, you will can't set the x value (using "foo.x = 10" as example).
