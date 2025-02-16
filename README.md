@@ -55,3 +55,7 @@ Please see this interesting example of the teacher. He inserted in the code `@pr
 As you could see in the examples, if you use `@property` you will access the property **without** parentheses.
 
 If you do not define in the example `@x.setter`, you will can't set the x value (using "foo.x = 10" as example).
+
+Teacher said that to `@x.deleter` in the example we can use del, but this is not interesting (use `del` can result in errors in other parts of the code that depends on this property), so he prefered to use `self._x = -1`.
+
+![using del](images/using-del.png)
