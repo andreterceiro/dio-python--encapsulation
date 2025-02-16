@@ -64,4 +64,9 @@ Teacher said that to `@x.deleter` in the example we can use del, but this is not
 # Slides of the class
 
 [link](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EQT6XJxrBjFGs_OWHrHasOgBQl5FC3wqBPbHEOtlo5eIdQ?e=gmVfaM)
-)
+
+
+
+# Repository related to the classes
+
+[link](https://github.com/digitalinnovationone/trilha-python-dio)
